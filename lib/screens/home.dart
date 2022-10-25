@@ -80,7 +80,7 @@ class _HomeState extends State<Home> {
                     vertical: 5,
                   ),
                   decoration: BoxDecoration(
-                    color: Colors.white,
+                    color: Color.fromARGB(255, 63, 4, 4),
                     boxShadow: const [
                       BoxShadow(
                         color: Colors.grey,
