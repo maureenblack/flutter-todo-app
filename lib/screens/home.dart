@@ -78,9 +78,10 @@ class _HomeState extends State<Home> {
                   padding: const EdgeInsets.symmetric(
                     horizontal: 20,
                     vertical: 5,
+                    
                   ),
                   decoration: BoxDecoration(
-                    color: Color.fromARGB(255, 63, 4, 4),
+                    color: Colors.white,
                     boxShadow: const [
                       BoxShadow(
                         color: Colors.grey,
